@@ -1,0 +1,6 @@
+id=adb_tcp_usb_host_jaws
+name=ADB TCP + USB Host for Xiaomi Jaws
+version=1.0.0
+versionCode=10000
+author=sergej19882906
+description=Keeps ADB on TCP 5555 while the external USB port stays in host mode.
